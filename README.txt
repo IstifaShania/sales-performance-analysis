@@ -15,7 +15,7 @@ Created interactive dashboards showing key insights.
 
 🔹 Approach & Techniques
 SQL Queries for data aggregation and trend analysis.
-Power BI Dashboard with clean, professional design (Apple-style).
+Power BI Dashboard with clean design.
 Fiiters & Slicers for dynamic exploration.
 
 Key SQL Queries Used:
